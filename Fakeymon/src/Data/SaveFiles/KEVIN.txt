@@ -1,0 +1,28 @@
+kevin
+2
+231
+2
+
+albus
+31
+26
+14
+26
+26
+26
+2
+punch 4 100
+soft-slap 6 80
+Jurrasick
+0
+16
+16
+16
+2
+41
+1
+punch 5 100
+
+
+9
+10

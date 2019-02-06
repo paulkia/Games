@@ -1,0 +1,10 @@
+soft-slap 6 80 A soft attack with a power of 6 and an accuracy of 80.
+high-kick 8 65 An inaccurate attack with a power of 8 and an accuracy of 65.
+stoic 0 100 This skill boosts temporary HP and defense by 15%. It deals no damage.
+shoulder-bash 8 90 An aggressive attack with a power of 8 and an accuracy of 90.
+jawbreaker 11 60 A brutal attack with a power of 11 and an accuracy of 60. It has a high chance of landing a critical hit (+15%).
+flurry-fist 13 40 A speedy move with a power of 13 and an accuracy of 40. Highly inaccurate but powerful.
+precision-wing 10 100 An attack with a power of 10 and an accuracy of 95. It is quite reliable.
+dragon-energy 0 100 A skill temporarily boosting attack by 40%. It deals no damage.
+tornado-kick 17 55 An attack with a power of 17 and an accuracy of 55. It has a chance of temporarily boosting speed by 10%.
+titan's-wrath 20 65 This attack has a power of 20 and an accuracy of 65. It deals insane damage.

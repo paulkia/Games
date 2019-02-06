@@ -1,0 +1,19 @@
+Gualamine           Sell  10   30   10 A cheap gem that can be sold to shops.
+Qualimine 	    Sell  15   45   15 A cheap gem that can be sold to shops.
+Turquoimine 	    Sell  25   75   25 A gem that can be sold to shops.
+Verimine	    Sell  50   150  50 A gem that can be sold to shops.
+Zestymine 	    Sell  75   225  75 A gem that can be sold to shops.
+Diamine 	    Sell  100  300  100 A rare gem that can be sold to shops.
+Maximine	    Sell  250  750  250 It is the rarest gem in the world. It sells for a very high price.
+Healy-hoo 	    Heal  35   15   5 It can heal a Fakeymon's HP.
+Super-hoo 	    Heal  70   45   15 It can heal a Fakeymon's HP.
+Mega-hoo 	    Heal  100  100  35 It can fully restore a Fakeymon's HP.
+Draco-hoo 	    Heal  120  150  50 It can restore more than a Fakeymon's maximum HP.
+Whistling-hoo       Heal2 20   200  70 It is said to slowly heal Fakeymon.
+Whistling-hou       Dam3  10   20   8 It is said to slowly hurt Fakeymon.
+Whistling-curse     Dam2  10   150  50 It is said to slowly hurt enemy Fakeymon.
+Gas-bomb 	    Esc   1    10   5 Ensures escape from enemies.
+Mud 		    Acc   1    5    1 Blinds enemies and reduces accuracy.
+Rock 		    Dam   30   20   3 Throw at enemies to inflict damage.
+Digital-Machine-6.9 Tch   1    50   15 Use it to teach a Fakeymon a new weak attack.
+Digital-Machine-69  Tch   2    0    100 Use it to teach a Fakeymon a new powerful attack.
