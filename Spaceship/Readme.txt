@@ -1,6 +1,6 @@
 Hello! This project (Spaceship) was developed by Paul Karmel in 2018.
 This is a Java project developed in an attempt to learn more about the graphics implementations in Java.
-The program was written in the first year of his software programming career, and he was ignorant about the importance of writing clean code.
+The program was written in the first year of my software programming career, and I was ignorant about the importance of writing clean code.
 
 This project was developed in two days.
 
